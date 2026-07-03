@@ -1,0 +1,6 @@
+{
+  "name": "Smart Supervision AI",
+  "description": "ระบบนิเทศภายในอัจฉริยะด้วย AI สำหรับการประเมินห้องเรียนคุณภาพและ Active Learning สำหรับโรงเรียนในสังกัด สพป.แพร่ เขต 1",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
